@@ -1,7 +1,8 @@
 ### <div align="center">I'm Fabian. I'm currently at a school studying informatics.</div>  
   
 
-- 🔭 I’m currently working on an [igzArchiveExtractor](https://github.com/NewSkyLineTwitter/Alchemy)  
+- 🔭 I’m currently working on an [Alchemy](https://github.com/NewSkyLineTwitter/Alchemy)
+-    An igz Archive extractor and viewer.   
   
 
 - 🌱 I’m currently learning **Rust** and **modern C++**  
