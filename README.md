@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust, and modern C++**
 
-- 💬 Ask me about **System programming languages, Data-Structures**
+- 💬 Ask me about **System programming languages, and Data-Structures**
 
 - ⚡ Fun fact: **I stare at people when I don't understand them**
 
